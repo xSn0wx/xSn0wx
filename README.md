@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **snow_x667@protonmail.com**
+- 📫 How to reach me **mathivanov.prog@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
