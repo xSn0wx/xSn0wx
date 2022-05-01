@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Snow</h1>
 <h3 align="center">A passionate self-taught developer from French</h3>
 
-![](https://komarev.com/ghpvc/?username=Snow667&color=green)
+![](https://komarev.com/ghpvc/?username=xsn0wx&color=green)
 
 <img align="right" src="https://media.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy.gif">
 
