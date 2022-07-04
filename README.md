@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Snow</h1>
 <h3 align="center">A passionate self-taught developer from French</h3>
 
-![](https://komarev.com/ghpvc/?username=xsn0wx&color=green)
+![](https://komarev.com/ghpvc/?username=xsn0wx&color=blue)
+
+<a><img alt="xSn0wx Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSn0wx&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <img align="right" src="https://media.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy.gif">
 
