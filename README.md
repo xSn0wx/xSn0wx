@@ -9,8 +9,6 @@
 
 <img align="right" src="https://media.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy.gif">
 
-- 🔭 I’m currently working on **my futur app**
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **mathivanov.prog@gmail.com**
